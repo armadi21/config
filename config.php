@@ -2,9 +2,9 @@
 date_default_timezone_set('Asia/jakarta');
 // User ID
 $id = [
-    "279", //armadiahmad6@gmail.com
-    "1905", //dhanielmachank@gmail.com
-    "1912", //armadiahmad7@gmail.com
+    //"279", //armadiahmad6@gmail.com
+    //"1905", //dhanielmachank@gmail.com
+    //"1912", //armadiahmad7@gmail.com
     "2350", //555.darman@gmail.com
     "2355", //alpian43152041a1@gmail.com
     //"2568", //armansireja@gmail.com
@@ -27,9 +27,9 @@ $id = [
 ];
 
 $userkeyadd = [
-    "aXupO2yar4al", //armadiahmad6@gmail.com
-    "DXupO1yDh2dl", //dhanielmachank@gmail.com
-    "aXupO1yar2al", //armadiahmad7@gmail.com
+    //"aXupO2yar4al", //armadiahmad6@gmail.com
+    //"DXupO1yDh2dl", //dhanielmachank@gmail.com
+    //"aXupO1yar2al", //armadiahmad7@gmail.com
     "dXupO2yda55l", //555.darman@gmail.com
     "aXupO2yal4al", //alpian43152041a1@gmail.com
     //"aXupO2yar5al", //armansireja@gmail.com
@@ -52,9 +52,9 @@ $userkeyadd = [
 ];
 
 $userkeymult = [
-    "4Oip2oar4aaa5m", //armadiahmad6@gmail.com
-    "2Oip1oDh4aDd4l", //dhanielmachank@gmail.com
-    "2Oip1oar4aaa5i", //armadiahmad7@gmail.com
+    //"4Oip2oar4aaa5m", //armadiahmad6@gmail.com
+    //"2Oip1oDh4aDd4l", //dhanielmachank@gmail.com
+    //"2Oip1oar4aaa5i", //armadiahmad7@gmail.com
     "7Oip2oda4ad59n", //555.darman@gmail.com
     "-Oip2oal4aaa-n", //alpian43152041a1@gmail.com
     //"6Oip2oar4aaa4a", //armansireja@gmail.com

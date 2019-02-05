@@ -5,7 +5,7 @@ $id = [
     //"279", //armadiahmad6@gmail.com
     //"1905", //dhanielmachank@gmail.com
     //"1912", //armadiahmad7@gmail.com
-    "2350", //555.darman@gmail.com
+    //"2350", //555.darman@gmail.com
     "2355", //alpian43152041a1@gmail.com
     //"2568", //armansireja@gmail.com
     "2627", //gugunakbar59@gmail.com
@@ -30,7 +30,7 @@ $userkeyadd = [
     //"aXupO2yar4al", //armadiahmad6@gmail.com
     //"DXupO1yDh2dl", //dhanielmachank@gmail.com
     //"aXupO1yar2al", //armadiahmad7@gmail.com
-    "dXupO2yda55l", //555.darman@gmail.com
+    //"dXupO2yda55l", //555.darman@gmail.com
     "aXupO2yal4al", //alpian43152041a1@gmail.com
     //"aXupO2yar5al", //armansireja@gmail.com
     "gXupO2ygu8gl", //gugunakbar59@gmail.com
@@ -52,10 +52,10 @@ $userkeyadd = [
 ];
 
 $userkeymult = [
-    "4Oip2oar4aaa5m", //armadiahmad6@gmail.com
-    "2Oip1oDh4aDd4l", //dhanielmachank@gmail.com
-    "2Oip1oar4aaa5i", //armadiahmad7@gmail.com
-    "7Oip2oda4ad59n", //555.darman@gmail.com
+    //"4Oip2oar4aaa5m", //armadiahmad6@gmail.com
+    //"2Oip1oDh4aDd4l", //dhanielmachank@gmail.com
+    //"2Oip1oar4aaa5i", //armadiahmad7@gmail.com
+    //"7Oip2oda4ad59n", //555.darman@gmail.com
     "-Oip2oal4aaa-n", //alpian43152041a1@gmail.com
     //"6Oip2oar4aaa4a", //armansireja@gmail.com
     "1Oip2ogu4agg9r", //gugunakbar59@gmail.com
@@ -73,15 +73,15 @@ $userkeymult = [
     "1Oip2oSh4aSs4l", //sharulakbar98@gmail.com
     "1Oip2ozi4aza4g", //akbaragus401@gmail.com
     "1Oip2oAk4aAa4m", //akmalkahar291@gmail.com
-    "1Oip2oja4aja3l", ////admin@maillink.info
+    "1Oip2oja4aja3l", //admin@maillink.info
 
 ];
 
 // DogeCoin Address
 $dogewallet = [
-"D7rW4XiEgYKKaA8f5B4EYsmtcEDnSFZYJG",
-"DBbiDfttk962yvavauX3oFfjiA8jtWuBk7",
-"DJH1AfqBoZiDGn52KtD3Hs5rcg1SnfV8EN",
+"D7rW4XiEgYKKaA8f5B4EYsmtcEDnSFZYJG", //armadiahmad6@gmail.com
+"DBbiDfttk962yvavauX3oFfjiA8jtWuBk7", //dhanielmachank@gmail.com
+"DJH1AfqBoZiDGn52KtD3Hs5rcg1SnfV8EN", //armadiahmad7@gmail.com
 "DCMmoXxpLxgCThw9oTLChmXCGhbUqCN4JB", //555.darman@gmail.com
 "DLMncFhoE2L7Bsj2CgvtGfHSvzzS4urHzN",
 "DS44VTi7QHxkjhLTExYytPCKKRMWv9x5zi", //armansireja@gmail.com

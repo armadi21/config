@@ -2,9 +2,9 @@
 date_default_timezone_set('Asia/jakarta');
 // User ID
 $id = [
-    //"279", //armadiahmad6@gmail.com
-    //"1905", //dhanielmachank@gmail.com
-    //"1912", //armadiahmad7@gmail.com
+    "279", //armadiahmad6@gmail.com
+    "1905", //dhanielmachank@gmail.com
+    "1912", //armadiahmad7@gmail.com
     "2350", //555.darman@gmail.com
     "2355", //alpian43152041a1@gmail.com
     //"2568", //armansireja@gmail.com
@@ -17,7 +17,7 @@ $id = [
     "2677", //anjarburhan53@gmail.com
     "2691", //ssakrii172@gmail.com
     "2706", //baharidris2@gmail.com
-    "2708", //rusdiakbar069@gmail.com
+    //"2708", //rusdiakbar069@gmail.com
     "2764", //jamalkurnia7@gmail.com
     "2767", //debiamir50@gmail.com
     "2770", //sharulakbar98@gmail.com
@@ -27,9 +27,9 @@ $id = [
 ];
 
 $userkeyadd = [
-    //"aXupO2yar4al", //armadiahmad6@gmail.com
-    //"DXupO1yDh2dl", //dhanielmachank@gmail.com
-    //"aXupO1yar2al", //armadiahmad7@gmail.com
+    "aXupO2yar4al", //armadiahmad6@gmail.com
+    "DXupO1yDh2dl", //dhanielmachank@gmail.com
+    "aXupO1yar2al", //armadiahmad7@gmail.com
     "dXupO2yda55l", //555.darman@gmail.com
     "aXupO2yal4al", //alpian43152041a1@gmail.com
     //"aXupO2yar5al", //armansireja@gmail.com
@@ -42,7 +42,7 @@ $userkeyadd = [
     "aXupO2yan3al", //anjarburhan53@gmail.com
     "sXupO2ysa3sl", //ssakrii172@gmail.com
     "iXupO2yid2bl", //baharidris2@gmail.com
-    "rXupO2yru2rl", //rusdiakbar069@gmail.com
+    //"rXupO2yru2rl", //rusdiakbar069@gmail.com
     "jXupO2yja1jl", //jamalkurnia7@gmail.com
     "DXupO2yDh2dl", //debiamir50@gmail.com
     "SXupO2ySh1sl", //sharulakbar98@gmail.com
@@ -52,9 +52,9 @@ $userkeyadd = [
 ];
 
 $userkeymult = [
-    //"4Oip2oar4aaa5m", //armadiahmad6@gmail.com
-    //"2Oip1oDh4aDd4l", //dhanielmachank@gmail.com
-    //"2Oip1oar4aaa5i", //armadiahmad7@gmail.com
+    "4Oip2oar4aaa5m", //armadiahmad6@gmail.com
+    "2Oip1oDh4aDd4l", //dhanielmachank@gmail.com
+    "2Oip1oar4aaa5i", //armadiahmad7@gmail.com
     "7Oip2oda4ad59n", //555.darman@gmail.com
     "-Oip2oal4aaa-n", //alpian43152041a1@gmail.com
     //"6Oip2oar4aaa4a", //armansireja@gmail.com
@@ -67,7 +67,7 @@ $userkeymult = [
     "4Oip2oan4aaa5n", //anjarburhan53@gmail.com
     "4Oip2osa4ass1i", //ssakrii172@gmail.com
     "4Oip2oid4aib3b", //baharidris2@gmail.com
-    "4Oip2oru4arr5r", //rusdiakbar069@gmail.com
+    //"4Oip2oru4arr5r", //rusdiakbar069@gmail.com
     "1Oip2oja4ajj7 ", //jamalkurnia7@gmail.com
     "1Oip2oDh4aDd3y", //debiamir50@gmail.com
     "1Oip2oSh4aSs4l", //sharulakbar98@gmail.com
@@ -94,7 +94,7 @@ $dogewallet = [
 "DJnVaNpznJKNWBaaAkPm5pZA6s5Et24Cty",
 "DRLLr4KyMeSRXGaaMPujf9ncwUS1tA5qpp",
 "DRJ1gUn3BdxF9krbP9QzqhhN5fh89Ds6K3",
-"DCRXjDGa6rvib7PxsKaK5qs4VB1583H7XM",
+"DCRXjDGa6rvib7PxsKaK5qs4VB1583H7XM", //rusdiakbar069@gmail.com
 "DM39surYdNgoZ5H6TYG8XHnaJmsidYskpx",
 "DBfRzEKgBewrgofGJSDZg769bhwTcxk17P",
 "DNPhz8eV7snEQqoBYYuuFYKsmXRgzZjNLA",
@@ -880,6 +880,5 @@ $dogewallet = [
 "DBfvvtKHPE6vo4YSeCcFAfLvSVfTPfuLdi",
 "DC4ioht6mkzhVC5hJBVcMgZAHR518aSQnH",
 ];
-
 
 ?>

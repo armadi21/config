@@ -10,7 +10,7 @@ $id = [
     //"2568", //armansireja@gmail.com
     "2627", //gugunakbar59@gmail.com
     "2629", //baharbaharuddin576@gmail.com
-    "2639", //jakaikmal@gmail.com payout 1
+    //"2639", //jakaikmal@gmail.com
     "2659", //ikmalharis857@gmail.com
     "2670", //danielammank@gmail.com
     "2675", //budianto6667@gmail.com
@@ -35,7 +35,7 @@ $userkeyadd = [
     //"aXupO2yar5al", //armansireja@gmail.com
     "gXupO2ygu8gl", //gugunakbar59@gmail.com
     "bXupO2yba3bl", //baharbaharuddin576@gmail.com
-    "iXupO2yik9jl", //jakaikmal@gmail.com
+    //"iXupO2yik9jl", //jakaikmal@gmail.com
     "iXupO2yik3il", //ikmalharis857@gmail.com
     "aXupO2yam3dl", //danielammank@gmail.com
     "bXupO2ybu3bl", //budianto6667@gmail.com
@@ -60,7 +60,7 @@ $userkeymult = [
     //"6Oip2oar4aaa4a", //armansireja@gmail.com
     "1Oip2ogu4agg9r", //gugunakbar59@gmail.com
     "1Oip2oba4abb8n", //baharbaharuddin576@gmail.com
-    "1Oip2oik4aij3a", //jakaikmal@gmail.com
+    //"1Oip2oik4aij3a", //jakaikmal@gmail.com
     "4Oip2oik4aii5s", //ikmalharis857@gmail.com
     "4Oip2oam4aad3k", //danielammank@gmail.com
     "4Oip2obu4abb5o", //budianto6667@gmail.com
@@ -87,7 +87,7 @@ $dogewallet = [
 "DS44VTi7QHxkjhLTExYytPCKKRMWv9x5zi", //armansireja@gmail.com
 "D8LS4pdMmH61rgkwmBLFT4PmzAbVS3t2rh",
 "D6yk12p1tSnJAw2L8RJSbMoXKNHdey3wKb",
-"DK4cSwPqKq31TaMx6XCnj4NQP6F1Dc696a",
+"DK4cSwPqKq31TaMx6XCnj4NQP6F1Dc696a", //jakaikmal@gmail.com
 "DPUhnqRteqNNkU4362oRmDDaWwR6auMTdT",
 "DLrqrDVawdEn6JwJ8z7RtjBuzHjEL9yN74",
 "DRU8ApLr2hZCHBwJfvMkrTGo3s9fwnA8Qu",
@@ -880,5 +880,16 @@ $dogewallet = [
 "DBfvvtKHPE6vo4YSeCcFAfLvSVfTPfuLdi",
 "DC4ioht6mkzhVC5hJBVcMgZAHR518aSQnH",
 ];
+
+
+
+
+
+
+
+
+
+
+
 
 ?>
